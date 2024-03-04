@@ -16,7 +16,12 @@ develop a diagnostic system that combines EEG data and subjective symptom assess
 ## Our System
 MindScan is a groundbreaking website that serves as a trusted companion on your journey to understanding mental health. It goes beyond mere questionnaires by integrating EEG data with personal experiences, providing a comprehensive view of your mental well-being. By combining traditional symptom assessments with detailed brain activity analysis, MindScan offers clear, personalized reports that empower individuals to make informed decisions about their mental health. Moreover, it provides invaluable support to healthcare professionals, enabling more accurate diagnoses and effective treatment plans.
 
-![image](https://github.com/nada1267/Diabetics/assets/99268869/f031219f-9039-4f27-bf62-914b01cd6f0f)
+![image](https://github.com/nada1267/Diabetics/assets/99268869/f031219f-9039-4f27-bf62-914b01cd6f0f)  ![image](https://github.com/nada1267/Diabetics/assets/99268869/ffaad064-36be-4327-98e4-93524c184d64)
+
+![image](https://github.com/nada1267/Diabetics/assets/99268869/19e69773-ffe2-4ffd-a540-7a5feb5398e4)  ![image](https://github.com/nada1267/Diabetics/assets/99268869/e731034a-f98c-4f91-8475-25378937c5dc)
+
+
+
 
 
 
